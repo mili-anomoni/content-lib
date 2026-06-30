@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mili-anomoni.github.io/content-lib/sitemap.xml
